@@ -1,0 +1,35 @@
+
+form {
+    width: 50%;
+    background-color:#5C80BC;
+    border: solid #4D5061 10px;
+    border-radius: 15px;  
+    position: relative;
+    top: 50px;
+    display: grid;
+}
+
+#contenido{
+    width: 100%;
+    margin: 30px;
+    position: relative;
+    top: 10%;
+}
+
+.parrafo{
+    left: 600px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+
+.datos{
+    position: relative;
+    left: 50%;
+    top: -35px;
+}
+
+p {
+    text-align: aline;
+}

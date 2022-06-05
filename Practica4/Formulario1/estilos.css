@@ -1,0 +1,99 @@
+body {
+    place-content: center;
+    background-color:#F3FFE3;
+    position: relative;
+    top: 10px;
+    display: grid;
+}
+form {
+    display: grid;
+    place-content: center;
+    width: 600px;
+    background-color: #666B6A;
+}
+#Contenido {
+    border: solid #8AE9C1 10px;
+    
+    width: 600px;
+}
+input {
+    width: 200px;
+    border: solid #8AE9C1 2px;
+}
+.datos{
+    position: relative;
+    left: 50px;
+    top: 38px;
+}
+#D1 {
+    left: 200px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+#D2 {
+    left: 230px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+#D3 {
+    left: 95px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+#D4 {
+    left: 95px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+#D5 {
+    left: 105px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+#D6 {
+    left: 160px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+#D7 {
+    left: 90px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+#D8 {
+    left: 80px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+#D9 {
+    left: 50px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+#D10 {
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    left: 25px;
+}
+input {
+    display: block;
+    margin: 20px;
+    position: relative;
+    left: 300px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
